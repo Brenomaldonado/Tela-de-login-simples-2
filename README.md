@@ -4,9 +4,3 @@
 <h1>Tela de Login</h1>
 
 <h2>Foi utilizado HTML, CSS e Javascript</h2>
-
-<h3>Qual o intuito deste projeto?</h3>
-
-<p>
-  Este projeto foi iniciado no intuito de exercitar meu conhecimento e aprender algo a mais, me serviu como base alguns videos do youtube e pesquisas!
-</p>
